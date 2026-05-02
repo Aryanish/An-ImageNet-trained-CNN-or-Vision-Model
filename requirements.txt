@@ -1,0 +1,8 @@
+# Application Requirements
+# To install: python -m pip install -r requirements.txt
+# To run the app: python -m streamlit run app.py
+
+streamlit
+onnxruntime
+pillow
+numpy
